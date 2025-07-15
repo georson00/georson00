@@ -34,8 +34,8 @@ Hello, GitHub! 👋
 
 ## Let's Connect!
 
-- Here is my[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsongeorges/)  profile.
-✉️ georson00@gmail.com  
+- Here is my [LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsongeorges/)  profile.
+- Email: ✉️ georson00@gmail.com  
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
