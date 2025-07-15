@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm Nelson Georges
+# Nelson Georges
+Hello, GitHub! 👋
 
 🎓 Software Development student at BYU–Idaho  
 🌍 Based in New York | Originally from Léogâne, Haiti  
